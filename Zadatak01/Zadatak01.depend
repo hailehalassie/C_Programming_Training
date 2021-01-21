@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1587720685 source:/home/elmahiko/C Programming - Training/Dan09/Zadatak/Zadatak01/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
